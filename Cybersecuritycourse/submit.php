@@ -1,0 +1,1 @@
+Nice to meet you <?php echo $_POST['name']; ?>
